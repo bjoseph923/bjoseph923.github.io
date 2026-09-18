@@ -14,6 +14,13 @@ summary: "A Filipino Cultural Film that I made with my classmates for The Ilokan
 
 <img class="img-fluid" src="../img/ph-square-01.png">
 
-<iframe width="800" height="450" src="https://https://youtu.be/sfQRSpbNcrc" title="Filipino Cultural Film" frameborder="0" allowfullscreen> </iframe>
+<iframe
+  width="800"
+  height="450"
+  src="https://www.youtube.com/embed/sfQRSpbNcrc"
+  title="Filipino Cultural Film"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 
 A Filipino Cultural Film that I made with my classmates for The Ilokano/Philippine Film Festival. It was a very fun group project we did and although we didn't win at the festival, we got second place in our class!
