@@ -15,10 +15,9 @@ summary: "A Filipino Cultural Film that I made with my classmates for The Ilokan
 <img class="img-fluid" src="../img/ph-square-01.png">
 
 <iframe
+  src="https://www.youtube.com/embed/sfQRSpbNcrc"
   width="800"
   height="450"
-  src="https://www.youtube.com/embed/sfQRSpbNcrc"
-  title="Filipino Cultural Film"
   frameborder="0"
   allowfullscreen>
 </iframe>
