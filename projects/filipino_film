@@ -14,14 +14,6 @@ summary: "A Filipino Cultural Film that I made with my classmates for The Ilokan
 
 <img class="img-fluid" src="../img/ph-square-01.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<iframe width="800" height="450" src="https://https://youtu.be/sfQRSpbNcrc" title="Filipino Cultural Film" frameborder="0" allowfullscreen> </iframe>
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+A Filipino Cultural Film that I made with my classmates for The Ilokano/Philippine Film Festival. It was a very fun group project we did and although we didn't win at the festival, we got second place in our class!
